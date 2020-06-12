@@ -1,0 +1,3 @@
+/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/detumble_sim.dir
