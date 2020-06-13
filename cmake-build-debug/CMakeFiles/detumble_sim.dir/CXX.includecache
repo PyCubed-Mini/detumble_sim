@@ -6,6 +6,22 @@
 
 #IncludeRegexTransform: 
 
+/Users/agatherer/Desktop/detumble_sim/dynamics.cpp
+iostream
+-
+eigen/Eigen/Dense
+/Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Dense
+dynamics.h
+/Users/agatherer/Desktop/detumble_sim/dynamics.h
+spacecraft.h
+/Users/agatherer/Desktop/detumble_sim/spacecraft.h
+
+/Users/agatherer/Desktop/detumble_sim/dynamics.h
+eigen/Eigen/Dense
+/Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Dense
+spacecraft.h
+/Users/agatherer/Desktop/detumble_sim/spacecraft.h
+
 /Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Cholesky
 Core
 /Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Core
@@ -1233,6 +1249,14 @@ ReshapedMethods.h
 /Users/agatherer/Desktop/detumble_sim/main.cpp
 iostream
 -
+eigen/Eigen/Dense
+/Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Dense
+dynamics.h
+/Users/agatherer/Desktop/detumble_sim/dynamics.h
+spacecraft.h
+/Users/agatherer/Desktop/detumble_sim/spacecraft.h
+
+/Users/agatherer/Desktop/detumble_sim/spacecraft.h
 eigen/Eigen/Dense
 /Users/agatherer/Desktop/detumble_sim/eigen/Eigen/Dense
 

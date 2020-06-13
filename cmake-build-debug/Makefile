@@ -123,6 +123,33 @@ detumble_sim/fast:
 	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/build
 .PHONY : detumble_sim/fast
 
+dynamics.o: dynamics.cpp.o
+
+.PHONY : dynamics.o
+
+# target to build an object file
+dynamics.cpp.o:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/dynamics.cpp.o
+.PHONY : dynamics.cpp.o
+
+dynamics.i: dynamics.cpp.i
+
+.PHONY : dynamics.i
+
+# target to preprocess a source file
+dynamics.cpp.i:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/dynamics.cpp.i
+.PHONY : dynamics.cpp.i
+
+dynamics.s: dynamics.cpp.s
+
+.PHONY : dynamics.s
+
+# target to generate assembly for a file
+dynamics.cpp.s:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/dynamics.cpp.s
+.PHONY : dynamics.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+spacecraft.o: spacecraft.cpp.o
+
+.PHONY : spacecraft.o
+
+# target to build an object file
+spacecraft.cpp.o:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/spacecraft.cpp.o
+.PHONY : spacecraft.cpp.o
+
+spacecraft.i: spacecraft.cpp.i
+
+.PHONY : spacecraft.i
+
+# target to preprocess a source file
+spacecraft.cpp.i:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/spacecraft.cpp.i
+.PHONY : spacecraft.cpp.i
+
+spacecraft.s: spacecraft.cpp.s
+
+.PHONY : spacecraft.s
+
+# target to generate assembly for a file
+spacecraft.cpp.s:
+	$(MAKE) -f CMakeFiles/detumble_sim.dir/build.make CMakeFiles/detumble_sim.dir/spacecraft.cpp.s
+.PHONY : spacecraft.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... detumble_sim"
+	@echo "... dynamics.o"
+	@echo "... dynamics.i"
+	@echo "... dynamics.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... spacecraft.o"
+	@echo "... spacecraft.i"
+	@echo "... spacecraft.s"
 .PHONY : help
 
 

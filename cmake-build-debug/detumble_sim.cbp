@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/agatherer/Desktop/detumble_sim/dynamics.cpp">
+			<Option target="detumble_sim"/>
+		</Unit>
+		<Unit filename="/Users/agatherer/Desktop/detumble_sim/dynamics.h">
+			<Option target="detumble_sim"/>
+		</Unit>
 		<Unit filename="/Users/agatherer/Desktop/detumble_sim/main.cpp">
+			<Option target="detumble_sim"/>
+		</Unit>
+		<Unit filename="/Users/agatherer/Desktop/detumble_sim/spacecraft.cpp">
+			<Option target="detumble_sim"/>
+		</Unit>
+		<Unit filename="/Users/agatherer/Desktop/detumble_sim/spacecraft.h">
 			<Option target="detumble_sim"/>
 		</Unit>
 		<Unit filename="/Users/agatherer/Desktop/detumble_sim/CMakeLists.txt">

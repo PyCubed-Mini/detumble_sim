@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/agatherer/Desktop/detumble_sim/dynamics.cpp" "/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/detumble_sim.dir/dynamics.cpp.o"
   "/Users/agatherer/Desktop/detumble_sim/main.cpp" "/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/detumble_sim.dir/main.cpp.o"
+  "/Users/agatherer/Desktop/detumble_sim/spacecraft.cpp" "/Users/agatherer/Desktop/detumble_sim/cmake-build-debug/CMakeFiles/detumble_sim.dir/spacecraft.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

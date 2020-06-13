@@ -8,4 +8,4 @@ project(detumble_sim)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(detumble_sim main.cpp)
+add_executable(detumble_sim main.cpp dynamics.cpp dynamics.h spacecraft.cpp spacecraft.h)
